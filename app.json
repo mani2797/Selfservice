@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "selfservice",
+    "slug": "selfservice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "selfservice"
+}
